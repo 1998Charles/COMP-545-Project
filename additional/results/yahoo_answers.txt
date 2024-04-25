@@ -1,0 +1,996 @@
+Training model with lr=0.05, dim=5, epoch=5, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1474724 lr:  0.000000 avg.loss:  1.013695 ETA:   0h 0m 0s
+N	60000
+P@1	0.684
+R@1	0.684
+
+Training model with lr=0.05, dim=5, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1382413 lr:  0.000000 avg.loss:  0.697110 ETA:   0h 0m 0s
+N	60000
+P@1	0.671
+R@1	0.671
+
+Training model with lr=0.05, dim=5, epoch=15, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  726570 lr:  0.000000 avg.loss:  0.501772 ETA:   0h 0m 0s  6.5% words/sec/thread:  968224 lr:  0.046774 avg.loss:  1.617404 ETA:   0h 4m26s
+N	60000
+P@1	0.667
+R@1	0.667
+
+Training model with lr=0.05, dim=5, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  872219 lr:  0.000000 avg.loss:  0.933395 ETA:   0h 0m 0s-0.000000 avg.loss:  0.933395 ETA:   0h 0m 0s
+N	60000
+P@1	0.684
+R@1	0.684
+
+Training model with lr=0.05, dim=5, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  976850 lr:  0.000000 avg.loss:  0.604834 ETA:   0h 0m 0s
+N	60000
+P@1	0.669
+R@1	0.669
+
+Training model with lr=0.05, dim=5, epoch=15, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1038528 lr:  0.000000 avg.loss:  0.413159 ETA:   0h 0m 0s
+N	60000
+P@1	0.663
+R@1	0.663
+
+Training model with lr=0.05, dim=5, epoch=5, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  654655 lr:  0.000000 avg.loss:  0.961775 ETA:   0h 0m 0s 663421 lr:  0.004180 avg.loss:  0.994038 ETA:   0h 0m11s
+N	60000
+P@1	0.676
+R@1	0.676
+
+Training model with lr=0.05, dim=5, epoch=10, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  494026 lr:  0.000000 avg.loss:  0.596176 ETA:   0h 0m 0ss 33.9% words/sec/thread:  544575 lr:  0.033031 avg.loss:  1.198648 ETA:   0h 3m43s63.1% words/sec/thread:  516070 lr:  0.018445 avg.loss:  0.832362 ETA:   0h 2m11s 514371 lr:  0.014239 avg.loss:  0.764240 ETA:   0h 1m41s 77.8% words/sec/thread:  510364 lr:  0.011119 avg.loss:  0.719735 ETA:   0h 1m20s 0.604664 ETA:   0h 0m 7s
+N	60000
+P@1	0.667
+R@1	0.667
+
+Training model with lr=0.05, dim=5, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  504012 lr:  0.000000 avg.loss:  0.412076 ETA:   0h 0m 0s 98.4% words/sec/thread:  506360 lr:  0.000792 avg.loss:  0.418372 ETA:   0h 0m 8s
+N	60000
+P@1	0.659
+R@1	0.659
+
+Training model with lr=0.05, dim=5, epoch=5, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  341676 lr: -0.000000 avg.loss:  1.074645 ETA:   0h 0m 0s
+N	60000
+P@1	0.673
+R@1	0.673
+
+Training model with lr=0.05, dim=5, epoch=10, and wordNgrams=5
+Progress: 100.0% words/sec/thread:  341676 lr:  0.000000 avg.loss:  1.074645 ETA:   0h 0m 0s
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  438432 lr:  0.000000 avg.loss:  0.611843 ETA:   0h 0m 0s
+N	60000
+P@1	0.665
+R@1	0.665
+
+Training model with lr=0.05, dim=5, epoch=15, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  367382 lr:  0.000000 avg.loss:  0.406053 ETA:   0h 0m 0ss
+N	60000
+P@1	0.656
+R@1	0.656
+
+Training model with lr=0.05, dim=10, epoch=5, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  772133 lr:  0.000000 avg.loss:  0.936594 ETA:   0h 0m 0s 0.040752 avg.loss:  1.581080 ETA:   0h 2m 0s
+Read 1M words
+N	60000
+P@1	0.701
+R@1	0.701
+
+Training model with lr=0.05, dim=10, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1167122 lr:  0.000000 avg.loss:  0.563614 ETA:   0h 0m 0s
+N	60000
+P@1	0.694
+R@1	0.694
+
+Training model with lr=0.05, dim=10, epoch=15, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  634920 lr:  0.000000 avg.loss:  0.407412 ETA:   0h 0m 0s 27.1% words/sec/thread:  650501 lr:  0.036454 avg.loss:  0.916070 ETA:   0h 5m 9s% words/sec/thread:  609265 lr:  0.031665 avg.loss:  0.819781 ETA:   0h 4m46s  0h 2m18s 92.2% words/sec/thread:  639604 lr:  0.003901 avg.loss:  0.435403 ETA:   0h 0m33s% words/sec/thread:  639464 lr:  0.003824 avg.loss:  0.434930 ETA:   0h 0m33s
+N	60000
+P@1	0.683
+R@1	0.683
+
+Training model with lr=0.05, dim=10, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  670451 lr:  0.000000 avg.loss:  0.922607 ETA:   0h 0m 0s 57.7% words/sec/thread:  613552 lr:  0.021152 avg.loss:  1.206535 ETA:   0h 1m 3sm 6s
+N	60000
+P@1	0.697
+R@1	0.697
+
+Training model with lr=0.05, dim=10, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  895789 lr:  0.000000 avg.loss:  0.537634 ETA:   0h 0m 0s
+N	60000
+P@1	0.689
+R@1	0.689
+
+Training model with lr=0.05, dim=10, epoch=15, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  528849 lr:  0.000000 avg.loss:  0.350575 ETA:   0h 0m 0s 11.0% words/sec/thread:  729138 lr:  0.044507 avg.loss:  1.461030 ETA:   0h 5m37s 39.2% words/sec/thread:  464755 lr:  0.030384 avg.loss:  0.764358 ETA:   0h 6m 1s 80.1% words/sec/thread:  542845 lr:  0.009952 avg.loss:  0.423528 ETA:   0h 1m41s
+N	60000
+P@1	0.686
+R@1	0.686
+
+Training model with lr=0.05, dim=10, epoch=5, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  442209 lr:  0.000000 avg.loss:  0.933899 ETA:   0h 0m 0s 39.4% words/sec/thread:  422881 lr:  0.030312 avg.loss:  1.372308 ETA:   0h 2m11s 84.4% words/sec/thread:  438867 lr:  0.007802 avg.loss:  1.010742 ETA:   0h 0m32s 84.7% words/sec/thread:  438724 lr:  0.007637 avg.loss:  1.009094 ETA:   0h 0m32s
+N	60000
+P@1	0.689
+R@1	0.689
+
+Training model with lr=0.05, dim=10, epoch=10, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  469993 lr:  0.000000 avg.loss:  0.538949 ETA:   0h 0m 0s  0.8% words/sec/thread:  524181 lr:  0.049604 avg.loss:  2.247682 ETA:   0h 5m48s
+N	60000
+P@1	0.688
+R@1	0.688
+
+Training model with lr=0.05, dim=10, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  381559 lr:  0.000000 avg.loss:  0.358370 ETA:   0h 0m 0s34.3% words/sec/thread:  300781 lr:  0.032866 avg.loss:  0.842920 ETA:   0h10m 3sh 9m52s 50.2% words/sec/thread:  301103 lr:  0.024878 avg.loss:  0.639667 ETA:   0h 7m36s words/sec/thread:  305133 lr:  0.020398 avg.loss:  0.555400 ETA:   0h 6m 9s
+N	60000
+P@1	0.684
+R@1	0.684
+
+Training model with lr=0.05, dim=10, epoch=5, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  368684 lr:  0.000000 avg.loss:  1.000394 ETA:   0h 0m 0s 1.472658 ETA:   0h 3m33s
+N	60000
+P@1	0.687
+R@1	0.687
+
+Training model with lr=0.05, dim=10, epoch=10, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  432190 lr: -0.000000 avg.loss:  0.570386 ETA:   0h 0m 0s56.2% words/sec/thread:  341005 lr:  0.021896 avg.loss:  0.876287 ETA:   0h 3m56s100.0% words/sec/thread:  432182 lr:  0.000000 avg.loss:  0.570386 ETA:   0h 0m 0s
+N	60000
+P@1	0.685
+R@1	0.685
+
+Training model with lr=0.05, dim=10, epoch=15, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  464935 lr:  0.000000 avg.loss:  0.379614 ETA:   0h 0m 0s  5.5% words/sec/thread:  701498 lr:  0.047249 avg.loss:  1.805242 ETA:   0h 6m11s 39.7% words/sec/thread:  359774 lr:  0.030149 avg.loss:  0.814102 ETA:   0h 7m42s
+N	60000
+P@1	0.681
+R@1	0.681
+
+Training model with lr=0.05, dim=25, epoch=5, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  557775 lr:  0.000000 avg.loss:  0.875461 ETA:   0h 0m 0s 11.4% words/sec/thread:  656332 lr:  0.044320 avg.loss:  1.615554 ETA:   0h 2m 4s
+N	60000
+P@1	0.699
+R@1	0.699
+
+Training model with lr=0.05, dim=25, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  548818 lr:  0.000000 avg.loss:  0.582784 ETA:   0h 0m 0s
+N	60000
+P@1	0.693
+R@1	0.693
+
+Training model with lr=0.05, dim=25, epoch=15, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  452979 lr:  0.000000 avg.loss:  0.403528 ETA:   0h 0m 0s
+N	60000
+P@1	0.685
+R@1	0.685
+
+Training model with lr=0.05, dim=25, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  553132 lr:  0.000000 avg.loss:  0.911099 ETA:   0h 0m 0s 74.8% words/sec/thread:  710083 lr:  0.012585 avg.loss:  1.058655 ETA:   0h 0m32s
+N	60000
+P@1	0.698
+R@1	0.698
+
+Training model with lr=0.05, dim=25, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  405708 lr:  0.000000 avg.loss:  0.516503 ETA:   0h 0m 0s
+N	60000
+P@1	0.690
+R@1	0.690
+
+Training model with lr=0.05, dim=25, epoch=15, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  556648 lr:  0.000000 avg.loss:  0.347205 ETA:   0h 0m 0s
+N	60000
+P@1	0.687
+R@1	0.687
+
+Training model with lr=0.05, dim=25, epoch=5, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  510465 lr:  0.000000 avg.loss:  0.997781 ETA:   0h 0m 0s
+N	60000
+P@1	0.693
+R@1	0.693
+
+Training model with lr=0.05, dim=25, epoch=10, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  647859 lr:  0.000000 avg.loss:  0.546479 ETA:   0h 0m 0s 37.3% words/sec/thread:  728633 lr:  0.031364 avg.loss:  1.111288 ETA:   0h 2m38s
+N	60000
+P@1	0.690
+R@1	0.690
+
+Training model with lr=0.05, dim=25, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  515986 lr:  0.000000 avg.loss:  0.373318 ETA:   0h 0m 0s
+N	60000
+P@1	0.685
+R@1	0.685
+
+Training model with lr=0.05, dim=25, epoch=5, and wordNgrams=5
+Read 128M words111M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  342770 lr:  0.000000 avg.loss:  1.042641 ETA:   0h 0m 0s% words/sec/thread:  376124 lr:  0.010346 avg.loss:  1.158904 ETA:   0h 0m50s
+N	60000
+P@1	0.689
+R@1	0.689
+
+Training model with lr=0.05, dim=25, epoch=10, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  355252 lr:  0.000000 avg.loss:  0.546799 ETA:   0h 0m 0s
+N	60000
+P@1	0.687
+R@1	0.687
+
+Training model with lr=0.05, dim=25, epoch=15, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  675616 lr:  0.000000 avg.loss:  0.393103 ETA:   0h 0m 0s 646893 lr:  0.020139 avg.loss:  0.595695 ETA:   0h 2m51s
+Read 1M words
+N	60000
+P@1	0.681
+R@1	0.681
+
+Training model with lr=0.1, dim=5, epoch=5, and wordNgrams=2
+Read 128M words words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1385254 lr:  0.000000 avg.loss:  0.868989 ETA:   0h 0m 0s
+N	60000
+P@1	0.685
+R@1	0.685
+
+Training model with lr=0.1, dim=5, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  761553 lr:  0.000000 avg.loss:  0.575754 ETA:   0h 0m 0s
+Read 1M words
+N	60000
+P@1	0.664
+R@1	0.664
+
+Training model with lr=0.1, dim=5, epoch=15, and wordNgrams=2
+Read 128M wordsM words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1320936 lr:  0.000000 avg.loss:  0.410132 ETA:   0h 0m 0s 34.6% words/sec/thread: 2883939 lr:  0.065429 avg.loss:  0.921556 ETA:   0h 1m 2s
+N	60000
+P@1	0.656
+R@1	0.656
+
+Training model with lr=0.1, dim=5, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  651121 lr:  0.000000 avg.loss:  0.812859 ETA:   0h 0m 0s 29.0% words/sec/thread:  663236 lr:  0.070989 avg.loss:  1.472340 ETA:   0h 1m38s
+N	60000
+P@1	0.676
+R@1	0.676
+
+Training model with lr=0.1, dim=5, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1023205 lr:  0.000000 avg.loss:  0.444462 ETA:   0h 0m 0s
+N	60000
+P@1	0.659
+R@1	0.659
+
+Training model with lr=0.1, dim=5, epoch=15, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1116468 lr:  0.000000 avg.loss:  0.301233 ETA:   0h 0m 0s 27.3% words/sec/thread:  868479 lr:  0.072709 avg.loss:  0.912791 ETA:   0h 3m51s
+N	60000
+P@1	0.654
+R@1	0.654
+
+Training model with lr=0.1, dim=5, epoch=5, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  561979 lr:  0.000000 avg.loss:  0.784047 ETA:   0h 0m 0s
+N	60000
+P@1	0.670
+R@1	0.670
+
+Training model with lr=0.1, dim=5, epoch=10, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  979741 lr:  0.000000 avg.loss:  0.413143 ETA:   0h 0m 0s
+N	60000
+P@1	0.655
+R@1	0.655
+
+Training model with lr=0.1, dim=5, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  775510 lr:  0.000000 avg.loss:  0.274510 ETA:   0h 0m 0s 26.3% words/sec/thread:  700029 lr:  0.073676 avg.loss:  0.886725 ETA:   0h 4m50s
+N	60000
+P@1	0.650
+R@1	0.650
+
+Training model with lr=0.1, dim=5, epoch=5, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  523342 lr:  0.000000 avg.loss:  0.791370 ETA:   0h 0m 0s
+N	60000
+P@1	0.668
+R@1	0.668
+
+Training model with lr=0.1, dim=5, epoch=10, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  758810 lr:  0.000000 avg.loss:  0.412916 ETA:   0h 0m 0s 99.2% words/sec/thread:  759708 lr:  0.000761 avg.loss:  0.415709 ETA:   0h 0m 1s
+N	60000
+P@1	0.653
+R@1	0.653
+
+Training model with lr=0.1, dim=5, epoch=15, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  559240 lr:  0.000000 avg.loss:  0.272886 ETA:   0h 0m 0s 0.086090 avg.loss:  1.308101 ETA:   0h 5m30s
+N	60000
+P@1	0.648
+R@1	0.648
+
+Training model with lr=0.1, dim=10, epoch=5, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  712829 lr:  0.000000 avg.loss:  0.823264 ETA:   0h 0m 0s
+N	60000
+P@1	0.697
+R@1	0.697
+
+Training model with lr=0.1, dim=10, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1743086 lr:  0.000000 avg.loss:  0.481329 ETA:   0h 0m 0s
+N	60000
+P@1	0.684
+R@1	0.684
+
+Training model with lr=0.1, dim=10, epoch=15, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1163857 lr:  0.000000 avg.loss:  0.336229 ETA:   0h 0m 0s
+N	60000
+P@1	0.677
+R@1	0.677
+
+Training model with lr=0.1, dim=10, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1065617 lr:  0.000000 avg.loss:  0.721545 ETA:   0h 0m 0s 57.6% words/sec/thread: 1488047 lr:  0.042382 avg.loss:  1.024432 ETA:   0h 0m26s
+N	60000
+P@1	0.692
+R@1	0.692
+
+Training model with lr=0.1, dim=10, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  569588 lr:  0.000000 avg.loss:  0.379066 ETA:   0h 0m 0s
+Read 1M words
+N	60000
+P@1	0.684
+R@1	0.684
+
+Training model with lr=0.1, dim=10, epoch=15, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  975176 lr:  0.000000 avg.loss:  0.259519 ETA:   0h 0m 0s 75.0% words/sec/thread: 1072105 lr:  0.025035 avg.loss:  0.339810 ETA:   0h 1m 4s100.0% words/sec/thread:  975177 lr: -0.000000 avg.loss:  0.259519 ETA:   0h 0m 0s
+Read 1M words
+N	60000
+P@1	0.681
+R@1	0.681
+
+Training model with lr=0.1, dim=10, epoch=5, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  689496 lr:  0.000000 avg.loss:  0.641849 ETA:   0h 0m 0s
+N	60000
+P@1	0.688
+R@1	0.688
+
+Training model with lr=0.1, dim=10, epoch=10, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  898179 lr:  0.000000 avg.loss:  0.365737 ETA:   0h 0m 0s
+N	60000
+P@1	0.683
+R@1	0.683
+
+Training model with lr=0.1, dim=10, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  706829 lr:  0.000000 avg.loss:  0.238967 ETA:   0h 0m 0s
+N	60000
+P@1	0.679
+R@1	0.679
+
+Training model with lr=0.1, dim=10, epoch=5, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  856945 lr:  0.000000 avg.loss:  0.714177 ETA:   0h 0m 0s
+Read 2M words
+N	60000
+P@1	0.686
+R@1	0.686
+
+Training model with lr=0.1, dim=10, epoch=10, and wordNgrams=5
+Read 128M words words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  453401 lr:  0.000000 avg.loss:  0.365737 ETA:   0h 0m 0s60.4% words/sec/thread:  499552 lr:  0.039589 avg.loss:  0.608224 ETA:   0h 2m25s% words/sec/thread:  455406 lr:  0.001562 avg.loss:  0.373043 ETA:   0h 0m 6s
+N	60000
+P@1	0.680
+R@1	0.680
+
+Training model with lr=0.1, dim=10, epoch=15, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  619929 lr:  0.000000 avg.loss:  0.240875 ETA:   0h 0m 0s
+N	60000
+P@1	0.677
+R@1	0.677
+
+Training model with lr=0.1, dim=25, epoch=5, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  837415 lr:  0.000000 avg.loss:  0.760663 ETA:   0h 0m 0s
+N	60000
+P@1	0.696
+R@1	0.696
+
+Training model with lr=0.1, dim=25, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  755015 lr:  0.000000 avg.loss:  0.480960 ETA:   0h 0m 0s
+N	60000
+P@1	0.684
+R@1	0.684
+
+Training model with lr=0.1, dim=25, epoch=15, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1073708 lr:  0.000000 avg.loss:  0.336591 ETA:   0h 0m 0s 31.7% words/sec/thread: 1143051 lr:  0.068279 avg.loss:  0.864196 ETA:   0h 2m44s
+N	60000
+P@1	0.678
+R@1	0.678
+
+Training model with lr=0.1, dim=25, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  353439 lr:  0.000000 avg.loss:  0.722763 ETA:   0h 0m 0s
+N	60000
+P@1	0.694
+R@1	0.694
+
+Training model with lr=0.1, dim=25, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1007963 lr:  0.000000 avg.loss:  0.379164 ETA:   0h 0m 0s100.0% words/sec/thread: 1007964 lr: -0.000000 avg.loss:  0.379164 ETA:   0h 0m 0s
+N	60000
+P@1	0.683
+R@1	0.683
+
+Training model with lr=0.1, dim=25, epoch=15, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1167323 lr:  0.000000 avg.loss:  0.252991 ETA:   0h 0m 0s 41.7% words/sec/thread: 1040146 lr:  0.058315 avg.loss:  0.581602 ETA:   0h 2m34s
+N	60000
+P@1	0.682
+R@1	0.682
+
+Training model with lr=0.1, dim=25, epoch=5, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1022433 lr:  0.000000 avg.loss:  0.701238 ETA:   0h 0m 0s
+N	60000
+P@1	0.690
+R@1	0.690
+
+Training model with lr=0.1, dim=25, epoch=10, and wordNgrams=4
+s
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1345047 lr:  0.000000 avg.loss:  0.357643 ETA:   0h 0m 0s 93.9% words/sec/thread: 1371425 lr:  0.006092 avg.loss:  0.378942 ETA:   0h 0m 8s
+N	60000
+P@1	0.683
+R@1	0.683
+
+Training model with lr=0.1, dim=25, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1117644 lr:  0.000000 avg.loss:  0.241780 ETA:   0h 0m 0s 42.8% words/sec/thread:  980441 lr:  0.057249 avg.loss:  0.541264 ETA:   0h 2m41s
+Read 1M words
+N	60000
+P@1	0.681
+R@1	0.681
+
+Training model with lr=0.1, dim=25, epoch=5, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  847971 lr:  0.000000 avg.loss:  0.709596 ETA:   0h 0m 0s
+Read 1M words
+N	60000
+P@1	0.687
+R@1	0.687
+
+Training model with lr=0.1, dim=25, epoch=10, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  777276 lr:  0.000031 avg.loss:  0.359497 ETA:   0h 0m 0s 14.7% words/sec/thread:  853434 lr:  0.085270 avg.loss:  1.458264 ETA:   0h 3m 3s 24.2% words/sec/thread:  853987 lr:  0.075765 avg.loss:  1.135371 ETA:   0h 2m43s 52.0% words/sec/thread:  793001 lr:  0.048025 avg.loss:  0.653623 ETA:   0h 1m51s
+N	60000
+P@1	0.681
+R@1	0.681
+
+Training model with lr=0.1, dim=25, epoch=15, and wordNgrams=5
+Progress: 100.0% words/sec/thread:  777189 lr:  0.000000 avg.loss:  0.359401 ETA:   0h 0m 0s
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread:  853437 lr:  0.000000 avg.loss:  0.242973 ETA:   0h 0m 0s 73.9% words/sec/thread:  872178 lr:  0.026081 avg.loss:  0.321550 ETA:   0h 1m22s
+N	60000
+P@1	0.679
+R@1	0.679
+
+Training model with lr=0.25, dim=5, epoch=5, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2602749 lr: -0.000001 avg.loss:  0.875292 ETA:   0h 0m 0s 0.000000 avg.loss:  0.875292 ETA:   0h 0m 0s
+Read 1M words
+N	60000
+P@1	0.674
+R@1	0.674
+
+Training model with lr=0.25, dim=5, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2553709 lr:  0.000000 avg.loss:  0.538749 ETA:   0h 0m 0s
+Read 1M words
+N	60000
+P@1	0.653
+R@1	0.653
+
+Training model with lr=0.25, dim=5, epoch=15, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2607054 lr:  0.000000 avg.loss:  0.389340 ETA:   0h 0m 0s
+N	60000
+P@1	0.647
+R@1	0.647
+
+Training model with lr=0.25, dim=5, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2028602 lr:  0.000000 avg.loss:  0.711014 ETA:   0h 0m 0s
+N	60000
+P@1	0.661
+R@1	0.661
+
+Training model with lr=0.25, dim=5, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3069203 lr:  0.000000 avg.loss:  0.398986 ETA:   0h 0m 0s
+N	60000
+P@1	0.647
+R@1	0.647
+
+Training model with lr=0.25, dim=5, epoch=15, and wordNgrams=3
+Read 128M words words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2886202 lr:  0.000000 avg.loss:  0.274724 ETA:   0h 0m 0s
+Read 3M words
+N	60000
+P@1	0.642
+R@1	0.642
+
+Training model with lr=0.25, dim=5, epoch=5, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3224519 lr:  0.000000 avg.loss:  0.660021 ETA:   0h 0m 0s100.0% words/sec/thread: 3224525 lr: -0.000001 avg.loss:  0.660021 ETA:   0h 0m 0s
+Read 3M words
+N	60000
+P@1	0.654
+R@1	0.654
+
+Training model with lr=0.25, dim=5, epoch=10, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3482122 lr:  0.000000 avg.loss:  0.341332 ETA:   0h 0m 0s
+N	60000
+P@1	0.641
+R@1	0.641
+
+Training model with lr=0.25, dim=5, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3397210 lr:  0.000000 avg.loss:  0.237168 ETA:   0h 0m 0s
+N	60000
+P@1	0.637
+R@1	0.637
+
+Training model with lr=0.25, dim=5, epoch=5, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2960667 lr:  0.000000 avg.loss:  0.623689 ETA:   0h 0m 0s
+N	60000
+P@1	0.648
+R@1	0.648
+
+Training model with lr=0.25, dim=5, epoch=10, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2934087 lr:  0.000167 avg.loss:  0.322569 ETA:   0h 0m 0s
+N	60000
+P@1	0.638
+R@1	0.638
+
+Training model with lr=0.25, dim=5, epoch=15, and wordNgrams=5
+Progress: 100.0% words/sec/thread: 2930902 lr:  0.000000 avg.loss:  0.322359 ETA:   0h 0m 0s
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2827281 lr:  0.000000 avg.loss:  0.222737 ETA:   0h 0m 0s
+N	60000
+P@1	0.634
+R@1	0.634
+
+Training model with lr=0.25, dim=10, epoch=5, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 4335438 lr:  0.000000 avg.loss:  0.775422 ETA:   0h 0m 0s
+N	60000
+P@1	0.686
+R@1	0.686
+
+Training model with lr=0.25, dim=10, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 4439325 lr:  0.000000 avg.loss:  0.452244 ETA:   0h 0m 0s
+N	60000
+P@1	0.673
+R@1	0.673
+
+Training model with lr=0.25, dim=10, epoch=15, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 4361640 lr:  0.000000 avg.loss:  0.329450 ETA:   0h 0m 0s
+Read 3M words
+N	60000
+P@1	0.670
+R@1	0.670
+
+Training model with lr=0.25, dim=10, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3331291 lr:  0.000000 avg.loss:  0.618795 ETA:   0h 0m 0s% words/sec/thread: 3331300 lr: -0.000000 avg.loss:  0.618795 ETA:   0h 0m 0s
+Read 3M words
+N	60000
+P@1	0.681
+R@1	0.681
+
+Training model with lr=0.25, dim=10, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3254089 lr:  0.000000 avg.loss:  0.329641 ETA:   0h 0m 0s
+N	60000
+P@1	0.674
+R@1	0.674
+
+Training model with lr=0.25, dim=10, epoch=15, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress:  99.9% words/sec/thread: 3212325 lr:  0.000186 avg.loss:  0.232932 ETA:   0h 0m 0s
+N	60000
+P@1	0.672
+R@1	0.672
+
+Training model with lr=0.25, dim=10, epoch=5, and wordNgrams=4
+Progress: 100.0% words/sec/thread: 3210784 lr:  0.000000 avg.loss:  0.232766 ETA:   0h 0m 0s
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2600026 lr:  0.000000 avg.loss:  0.561406 ETA:   0h 0m 0s 16.6% words/sec/thread: 2703964 lr:  0.208466 avg.loss:  1.529406 ETA:   0h 0m28s
+N	60000
+P@1	0.680
+R@1	0.680
+
+Training model with lr=0.25, dim=10, epoch=10, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2600655 lr:  0.000000 avg.loss:  0.298586 ETA:   0h 0m 0s
+N	60000
+P@1	0.673
+R@1	0.673
+
+Training model with lr=0.25, dim=10, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2580050 lr:  0.000000 avg.loss:  0.200190 ETA:   0h 0m 0s
+Read 3M words
+N	60000
+P@1	0.672
+R@1	0.672
+
+Training model with lr=0.25, dim=10, epoch=5, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2168083 lr:  0.000000 avg.loss:  0.538087 ETA:   0h 0m 0s
+N	60000
+P@1	0.678
+R@1	0.678
+
+Training model with lr=0.25, dim=10, epoch=10, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2162552 lr:  0.000000 avg.loss:  0.274843 ETA:   0h 0m 0s
+N	60000
+P@1	0.672
+R@1	0.672
+
+Training model with lr=0.25, dim=10, epoch=15, and wordNgrams=5
+ ETA:   0h 0m 0s
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1896015 lr:  0.000000 avg.loss:  0.187172 ETA:   0h 0m 0s
+N	60000
+P@1	0.669
+R@1	0.669
+
+Training model with lr=0.25, dim=25, epoch=5, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3340686 lr:  0.000000 avg.loss:  0.774382 ETA:   0h 0m 0s
+N	60000
+P@1	0.687
+R@1	0.687
+
+Training model with lr=0.25, dim=25, epoch=10, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3384901 lr:  0.000000 avg.loss:  0.449883 ETA:   0h 0m 0s
+N	60000
+P@1	0.674
+R@1	0.674
+
+Training model with lr=0.25, dim=25, epoch=15, and wordNgrams=2
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 3603530 lr:  0.000000 avg.loss:  0.324811 ETA:   0h 0m 0s 52.1% words/sec/thread: 3546265 lr:  0.119782 avg.loss:  0.595227 ETA:   0h 0m37s
+N	60000
+P@1	0.669
+R@1	0.669
+
+Training model with lr=0.25, dim=25, epoch=5, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2624237 lr:  0.000000 avg.loss:  0.619247 ETA:   0h 0m 0s words/sec/thread: 2624243 lr: -0.000001 avg.loss:  0.619247 ETA:   0h 0m 0s
+Read 3M words
+N	60000
+P@1	0.682
+R@1	0.682
+
+Training model with lr=0.25, dim=25, epoch=10, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2555449 lr:  0.000000 avg.loss:  0.330332 ETA:   0h 0m 0s
+Read 3M words
+N	60000
+P@1	0.674
+R@1	0.674
+
+Training model with lr=0.25, dim=25, epoch=15, and wordNgrams=3
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 2517501 lr:  0.000000 avg.loss:  0.231663 ETA:   0h 0m 0s
+N	60000
+P@1	0.671
+R@1	0.671
+
+Training model with lr=0.25, dim=25, epoch=5, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1816001 lr:  0.000000 avg.loss:  0.576551 ETA:   0h 0m 0s
+N	60000
+P@1	0.681
+R@1	0.681
+
+Training model with lr=0.25, dim=25, epoch=10, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1958870 lr:  0.000000 avg.loss:  0.293117 ETA:   0h 0m 0s100.0% words/sec/thread: 1958871 lr: -0.000000 avg.loss:  0.293117 ETA:   0h 0m 0s
+Read 3M words
+N	60000
+P@1	0.674
+R@1	0.674
+
+Training model with lr=0.25, dim=25, epoch=15, and wordNgrams=4
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1942213 lr:  0.000000 avg.loss:  0.203720 ETA:   0h 0m 0s
+N	60000
+P@1	0.672
+R@1	0.672
+
+Training model with lr=0.25, dim=25, epoch=5, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1631590 lr:  0.000000 avg.loss:  0.540958 ETA:   0h 0m 0s
+N	60000
+P@1	0.678
+R@1	0.678
+
+Training model with lr=0.25, dim=25, epoch=10, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1575075 lr:  0.000000 avg.loss:  0.274314 ETA:   0h 0m 0s
+N	60000
+P@1	0.673
+R@1	0.673
+
+Training model with lr=0.25, dim=25, epoch=15, and wordNgrams=5
+Read 128M words
+Number of words:  5783083
+Number of labels: 10
+Progress: 100.0% words/sec/thread: 1579720 lr:  0.000000 avg.loss:  0.189460 ETA:   0h 0m 0s
+N	60000
+P@1	0.671
+R@1	0.671
+
